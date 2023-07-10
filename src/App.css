@@ -55,10 +55,10 @@ body {
 
 .hero-banner-img {
   position: absolute;
-  right: 0px;
-  top: 10px;
-  width: 670px;
-  height: 850px;
+  right: 40px;
+  top: 0px;
+  width: 700px;
+  height: 900px;
   margin-top: -330px;
 
 }
@@ -111,9 +111,6 @@ body {
     width: 300px;
     height: 300px;
   }
-  .hero-banner-img {
-    display: none;
-  }
 
 
   .react-horizontal-scrolling-menu--scroll-container {
@@ -125,7 +122,9 @@ body {
     position: static !important;
   }
 
-
+  .hero-banner-img {
+    display: none;
+  }
 
   .exercise-card {
     width: 320px;
